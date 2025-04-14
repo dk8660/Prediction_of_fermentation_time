@@ -105,9 +105,4 @@ Shows the model's performance for each fermentation ratio using MAE and accuracy
 Visual representation of the 6-level grading system based on remaining fermentation time.  
 ![](./images/grading_scheme.png)
 
----
-
-## License
-
-This project was completed for academic purposes and is not licensed for commercial use.
 
